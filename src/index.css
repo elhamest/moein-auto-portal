@@ -1,0 +1,14 @@
+:root {
+  color: rgba(150, 69, 69, 0.87);
+  background-color: #f5eded;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+}
